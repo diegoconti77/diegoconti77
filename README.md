@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Diego Conti
-- 👀 I’m interested in manufacturgin and development
+- 👀 I’m interested in manufacturing and development
 - 🌱 I’m currently learning flutter and AWS
-- 💞️ I’m looking to collaborate on oee-plus-with-sitewise
 - 📫 How to reach me LinkedIn or via email diego.conti.77@gmail.com
 
 <!---
